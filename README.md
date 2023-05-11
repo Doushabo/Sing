@@ -5,16 +5,17 @@
 <details>
 <summary>歌曲列表</summary>
 <ul style="list-style-type: none">
-    <li><a href='./⛔打上花火[未完成].md'>⛔打上花火</a></li>
-    <li><a href='./⛔虹のかけら[未完成].md'>⛔虹のかけら</a></li>
-    <li><a href='./⛔前前前世[未完成].md'>⛔前前前世</a></li>
-    <li><a href='./✅残響散歌.md'>✅残響散歌</a></li>
-    <li><a href='./✅君をのせて.md'>✅君をのせて</a></li>
-    <li><a href='./✅Butter-Fly.md'>✅Butter-Fly.md</a></li>
-    <li><a href='./✅ギターと孤独と蒼い惑星.md'>✅ギターと孤独と蒼い惑星</a></li>
-    <li><a href='./⭕光るなら.md'>⭕光るなら</a></li>
+    <li><a href='./打上花火.md'>⛔打上花火</a></li>
+    <li><a href='./虹のかけら.md'>⛔虹のかけら</a></li>
+    <li><a href='./前前前世.md'>⛔前前前世</a></li>
+    <li><a href='./残響散歌.md'>✅残響散歌</a></li>
+    <li><a href='./君をのせて.md'>✅君をのせて</a></li>
+    <li><a href='./Butter-Fly.md'>✅Butter-Fly.md</a></li>
+    <li><a href='./ギターと孤独と蒼い惑星.md'>✅ギターと孤独と蒼い惑星</a></li>
+    <li><a href='./光るなら.md'>⭕光るなら</a></li>
 </ul>
 </details>
+
 
 清音
 
