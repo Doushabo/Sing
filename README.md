@@ -2,6 +2,19 @@
 
 记录平时练歌的进度
 
+<details>
+<summary>歌曲列表</summary>
+<ul>
+    <li><a href='./残響散歌.md'>残響散歌</a></li>
+    <li><a href='./打上花火[未完成].md'>打上花火[未完成]</a></li>
+    <li><a href='./光るなら[ing].md'>光るなら[ing]</a></li>
+    <li><a href='./虹のかけら[未完成].md'>虹のかけら[未完成]</a></li>
+    <li><a href='./君をのせて.md'>君をのせて</a></li>
+    <li><a href='./前前前世[未完成].md'>前前前世[未完成]</a></li>
+    <li><a href='./Butter-Fly.md'>Butter-Fly.md</a></li>
+    <li><a href='./ギターと孤独と蒼い惑星.md'>ギターと孤独と蒼い惑星</a></li>
+</ul>
+</details>
 ~~README.md好空啊 随便写点什么上去~~
 
 清音
