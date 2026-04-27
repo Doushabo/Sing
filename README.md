@@ -13,6 +13,7 @@
     <li><a href='./Butter-Fly.md'>✅Butter-Fly.md</a></li>
     <li><a href='./ギターと孤独と蒼い惑星.md'>✅ギターと孤独と蒼い惑星</a></li>
     <li><a href='./光るなら.md'>⭕光るなら</a></li>
+    <li><a href="./青い果実.md">⭕青い果実</a></li>
 </ul>
 </details>
 
