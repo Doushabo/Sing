@@ -1,29 +1,17 @@
 I always needed time on my own  
 我总是需要自己独处的时间
 
-I never thought  
-我从未想过
+I never thought I'd need you there when I cried  
+我从未想过 当我哭泣时需要你
 
-I'd need you there when I cried  
-当我哭泣时需要你
+And the days feel like years when I'm alone  
+度日如年 当我独自一人时却
 
-And the days feel like years  
-度日如年
+And the bed where you lie Is made up on your side  
+床上你躺的位置 已经为你准备好
 
-when I'm alone  
-当我独自一人时却
-
-And the bed where you lie  
-床上你躺的位置
-
-Is made up on your side  
-已经为你准备好
-
-When you walk away  
-当你离开时
-
-I count the steps that you take  
-我计算着你的脚步
+When you walk away I count the steps that you take  
+当你离开时 我计算着你的脚步
 
 Do you see how much I need you right now?  
 你明白此刻我有多需要你吗?
@@ -31,29 +19,20 @@ Do you see how much I need you right now?
 When you're gone  
 当你离去
 
-The pieces of my heart  
-我碎成片片的心
-
-are missing you  
-想念着你
+The pieces of my heart are missing you  
+我碎成片片的心 想念着你
 
 When you're gone  
 当你离去
 
-The face I came to know  
-熟悉的面容
-
-is missing too  
-也消逝了
+The face I came to know is missing too  
+熟悉的面容 也消逝了
 
 When you're gone  
 当你离去
 
-The words I need to hear  
-我需要听到的话语
-
-to always get me through the day  
-过去总是伴我
+The words I need to hear to always get me through the day  
+我需要听到的话语 过去总是伴我
 
 And make it ok  
 安然度过每天
